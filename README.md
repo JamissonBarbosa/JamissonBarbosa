@@ -2,7 +2,24 @@
 
 ### Olá, eu sou o Jamisson Barbosa 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamisson-barbosa-silva/)
+# 👋 Olá, eu sou Jamisson!
+
+💻 **Desenvolvedor Frontend** com mais de 3 anos de experiência em criar interfaces interativas e funcionais.  
+🎓 **Formado em Ciência da Computação**, apaixonado por tecnologia e por explorar as possibilidades do desenvolvimento web.  
+🎯 Sempre em busca de **resolver problemas reais** e criar soluções que impactem positivamente as pessoas! 🚀  
+
+---
+
+### 🚀 **Minhas principais habilidades:**
+- **Frontend:** React, Angular, Next.js, Spring, Django, Material-UI, Redux-Tookit HTML5, CSS3, JavaScript/TypeScript.
+- **Outros:** Testes automatizados(Unitários e de Integração), otimização de performance e responsividade.  
+
+---
+
+### 📫 **Vamos nos conectar?**
+- 🌐 [Meu portfólio](https://github.com/JamissonBarbosa/course-manager)
+
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamisson-barbosa-silva/)
 
 ![Jamisson GitHub stats](https://github-readme-stats.vercel.app/api?username=JamissonBarbosa&show_icons=true&theme=dracula)
 
