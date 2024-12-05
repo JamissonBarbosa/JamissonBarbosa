@@ -1,8 +1,6 @@
-## Hi there 👋
+## Olá 👋
 
-### Olá, eu sou o Jamisson Barbosa 👋
-
-# 👋 Olá, eu sou Jamisson!
+## 👋 Olá, eu sou Jamisson!
 
 💻 **Desenvolvedor Frontend** com mais de 3 anos de experiência em criar interfaces interativas e funcionais.  
 🎓 **Formado em Ciência da Computação**, apaixonado por tecnologia e por explorar as possibilidades do desenvolvimento web.  
